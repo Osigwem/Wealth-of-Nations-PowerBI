@@ -10,11 +10,9 @@ The analysis of this dataset led to the following key insights:
 
 ![Top20gdpBI](https://github.com/Osigwem/Wealth-of-Nations-PowerBI/assets/146824911/4b6f08ac-3d08-4ed6-a222-d0d247c6a8b5)
 
-
 2. **Top 20 GDP Countries and Life Expectancies at Birth**: Explore how the top 20 countries with the highest GDP correlate with life expectancies at birth.
 
    ![TOP20lifeEPOWERBI](https://github.com/Osigwem/Wealth-of-Nations-PowerBI/assets/146824911/b7d8645c-5b08-407b-9efc-7827d7bd1f9d)
-
 
 3. **Top 20 Countries with Smartphone Users in 2020 and Life Expectancies**: Understand the relationship between smartphone users in 2020 and life expectancies in the top 20 countries.
 
@@ -26,7 +24,6 @@ The analysis of this dataset led to the following key insights:
 
 
 ## Power BI Dashboard
-
 ![powerbidashboard](https://github.com/Osigwem/Wealth-of-Nations-PowerBI/assets/146824911/96c07b6f-5975-47e0-bc91-8a5dc7eb8335)
 
 
